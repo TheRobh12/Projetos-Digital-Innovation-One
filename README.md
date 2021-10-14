@@ -1,4 +1,4 @@
-# Projetos-Digital-Innovation-One
+# Criando um App de Cartão de Visitas em Kotlin
 Repositorio para projetos da DIO
 
 - Aplicativo "Criando um App de Cartão de Visitas em Kotlin" feito pleo bootcamp da Inter Android Developer 
